@@ -53,26 +53,30 @@ The project is structured as follows:
 - **User Acceptance Testing**: Conducted with potential users to ensure the system meets their needs.
 
 ### Reading the dataset
-![Screenshot 2024-04-11 at 7 40 03 PM](https://github.com/jrobin11/cmpsc445/assets/73866458/e85e9091-0e8c-4e45-8244-95eafcc0121c)
+![dataset](https://github.com/jrobin11/cmpsc445/assets/73866458/358ee81e-209d-4817-984c-368532a61dfa)
+
 ### Applying KMeans for clustering on Lunch_data, Breakfast_data, Dinner data
-![Screenshot 2024-04-11 at 7 41 16 PM](https://github.com/jrobin11/cmpsc445/assets/73866458/6e4ed837-6044-4e0f-99cc-77a8ce113db3)
+![kmeans](https://github.com/jrobin11/cmpsc445/assets/73866458/b5d843f9-8062-484f-9903-fd9dd807f79f)
 
 ### Applying Random Forest Classifier
-![Screenshot 2024-04-11 at 7 44 01 PM](https://github.com/jrobin11/cmpsc445/assets/73866458/9ce5c052-e729-42ac-826b-1292613859b2)
+![random](https://github.com/jrobin11/cmpsc445/assets/73866458/5d42814f-59f2-4c32-bf2e-3543c2df7154)
 
 ### Creating Interface
-![Screenshot 2024-04-11 at 7 44 55 PM](https://github.com/jrobin11/cmpsc445/assets/73866458/6aa3e06e-0565-4912-8ac9-3b78a287f42b)
+![interface](https://github.com/jrobin11/cmpsc445/assets/73866458/19e4ef63-55e0-4043-aa0c-424fb6d189a8)
 
 ### Taking inputs
-![Screenshot 2024-04-11 at 7 44 42 PM](https://github.com/jrobin11/cmpsc445/assets/73866458/b0dfb646-3ac2-4280-b316-69f04809fe8c)
+![taking inputs](https://github.com/jrobin11/cmpsc445/assets/73866458/1e16476c-6fcc-4576-b2d0-3afe4fd0e1a2)
+
 
 ### Predicting food items for Weight Loss Diet Plan
-![Screenshot 2024-04-11 at 7 45 14 PM](https://github.com/jrobin11/cmpsc445/assets/73866458/6fda0df6-8465-41b5-9982-cfba654954f1)
+![plan](https://github.com/jrobin11/cmpsc445/assets/73866458/31cf0a40-01be-4ce0-8a0b-494e4bf826c6)
 
 ### Predicting Food Items for Weight Gain Diet Plan
-![Screenshot 2024-04-11 at 7 47 28 PM](https://github.com/jrobin11/cmpsc445/assets/73866458/8df2f051-d01f-4a61-b60f-9ba07c1c2c81)
+![weight gain](https://github.com/jrobin11/cmpsc445/assets/73866458/775af0a6-85d9-41c0-a5dc-05e2f16c0779)
+
 ### Predicting Food Items for Healthy food items
-![Screenshot 2024-04-11 at 7 47 45 PM](https://github.com/jrobin11/cmpsc445/assets/73866458/46fd8fd9-dc8b-4567-89cb-1ce7c86aa996)
+![healthy](https://github.com/jrobin11/cmpsc445/assets/73866458/9c22ba38-7ba6-455d-b5f5-342ab4ce7021)
+
 
 # Results and Discussion
 
